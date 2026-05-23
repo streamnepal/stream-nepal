@@ -46,21 +46,21 @@ const LiveStreamingSection = () => {
   const liveStreams: Stream[] = [
     {
       id: 1,
-      title: "🏆 Upcoming: PMWC 2.0",
+      title: "🏆 NDPL: PUBG Duo League",
       status: "upcoming",
-      thumbnail: "/pmwc_v2/poster.png",
+      thumbnail: "/ndpl/ndpl.jpg",
       expectedViewers: "",
       scheduledTime: "14 Nov, 9:00 AM",
       platforms: [
         {
           name: "YouTube",
-          url: "https://www.youtube.com/@MRSADY",
+          url: "https://www.youtube.com/live/IVbnOIpPazE?si=RJUyP76nUjZjs0dV",
           color: "from-red-500 to-red-600",
           icon: "📺",
         },
         {
           name: "Facebook",
-          url: "https://www.facebook.com/MRSADDDY",
+          url: "https://www.facebook.com/streamnepal.stream",
           color: "from-blue-500 to-blue-600",
           icon: "📘",
         },

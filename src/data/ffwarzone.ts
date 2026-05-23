@@ -118,7 +118,7 @@ export const ffwarzoneeTournament: Tournament = {
     },
     {
       name: "Facebook",
-      url: "https://facebook.com/streamnepal",
+      url: "https://www.facebook.com/streamnepal.stream",
       icon: "facebook",
       color: "from-blue-600 to-blue-700",
     },
