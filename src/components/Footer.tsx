@@ -225,7 +225,7 @@ const Footer = () => {
     {
       name: "Facebook",
       icon: Facebook,
-      href: "https://www.facebook.com/MRSADDDY",
+      href: "https://www.facebook.com/streamnepal.stream",
       color: "from-blue-500 to-blue-600",
       followers: "174+",
     },
@@ -239,7 +239,7 @@ const Footer = () => {
     {
       name: "Instagram",
       icon: Instagram,
-      href: "https://www.instagram.com/mr_sady_2.0/",
+      href: "https://www.instagram.com/stream_nepal_001/",
       color: "from-pink-500 to-purple-500",
       followers: "75+",
     },
